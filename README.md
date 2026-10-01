@@ -1,6 +1,6 @@
 # lab07-tecnicas-
 
-Bitacoras de tecnicas avanzadas de prompting
+Bitácora de técnicas avanzadas de prompting
 
 ## Documentos
 
